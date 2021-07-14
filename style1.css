@@ -63,7 +63,7 @@ player card start
   width: 330px;
   height: 474px;
   border-radius: 5px;
-  box-shadow: 5px 7px 30px;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
   justify-content: center;
   align-items: center;
 }
