@@ -45,6 +45,9 @@ top banner start
   background-color: #e02c6d;
   border-radius: 5px;
 }
+.btn:hover{
+  background-color: black;
+}
 /* --------------
 top banner end
 -------------- */
